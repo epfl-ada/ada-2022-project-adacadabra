@@ -46,7 +46,7 @@ Check the notebook for more details on each step.
 18/11/2022: Step 1, parts of Step 2 (everybody)\
 09/12/2022: Step 2 (everybody)\
 16/12/2022: Step 3 (mainly Alex, Kla, and Eray)\
-23/12/2022: Step 4 (mainly Manu, then everybody)\
+23/12/2022: Step 4 (mainly Manu, then everybody)
 
 ## Questions for TAs: 
 About the number of events, we are investigating: Since we do not yet exactly know how much work we will face for each event, we decided to go with not too many for the moment. Maybe we’ll manage to add more events and with that, give more credibility to our conclusion. Do you agree with this procedure?
