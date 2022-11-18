@@ -24,6 +24,7 @@ No additional data sets are required for this project, however, information on h
 * 1997: Machine Tops Chess Champ
 * 2001: 9/11
 * 2005: Katrina Overwhelms New Orleans
+
 These events all belong to our definition of abrupt changes. In addition, they represent historical developments of different categories: The end of WWII and 9/11 are events related to war, the Moon Landing and the machine topping a chess champion are scientific breakthroughs, the energy crisis and the 1980s recession are economical and the hurricane Katrina is a natural catastrophe. This diversity is interesting for our analysis, as we might get more or less influence from different categories. \
 For the slow developments, we decided to attack the following history subjects: 
 * gender neutrality
