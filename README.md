@@ -38,7 +38,11 @@ All of the above events have to be characterised in order to be able to detect m
 * Step 1 Data preparations (milestone P2): Analyse the data, determine what is of interest to our analysis, check for data errors (data-scraping), and prepare the dataframes for the analysis.
 * Step 2 Determine historical events and define their unique characteristics. 
 * Step 3 Perform the analysis according to plan.
-  * Test significance of change in a certain period before and after the event with hypothesis testing. For instance; find a number of change of number movies in war genre  years before and after the event.   (maybe detail this step a bit more (substeps etc))
+  * Identify the set of movies of interest at the time of reference, divided into a training set and a validation set. The value that will be used as the dependent variable in a linear formula is frequency, absolute number, or change (to be determined later)
+  * Identify all relevant independent variables (a.k.a feature extraction) to formulate the linear formula by using a correlation matrix and leave-one-out cross-validation. Try to address any collinearity.
+  * Perform a multiple regression analysis and get the predicted values for the time of impact.
+  * ValidateDefine null hypothesis: the real values correlate with the expected values, meaning there are no significant changes in the dataset. Then perform hypothesis testing
+  * Evaluate the results by using residual plot to address heteroscedasticity etc.
 * Step 4 Put the results together and come up with a conclusion. Document everything in a presentable manner.
 Check the notebook for more details on each step. 
 
