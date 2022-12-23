@@ -1,5 +1,5 @@
-# Investigating the influence of history on the movie industry
-## Team: ADAcADAbra
+# the influence of history on the movie industry
+### Team: ADAcADAbra
 DEMIRTAS Enes Eray\
 MAILLARD Alexandre Benjamin\
 [SIRIPATTHITI Punnawat](https://github.com/PunnawatSiri)\
