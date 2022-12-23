@@ -1,7 +1,7 @@
 # the influence of history on the movie industry
 ### Team: ADAcADAbra
-DEMIRTAS Enes Eray\
-MAILLARD Alexandre Benjamin\
+[DEMIRTAS Enes Eray](https://github.com/ErayDemirtas)\
+[MAILLARD Alexandre Benjamin](https://github.com/AlexMlld)\
 [SIRIPATTHITI Punnawat](https://github.com/PunnawatSiri)\
 [ZEMP Manuel Nicolas](https://github.com/hercbone)
 
