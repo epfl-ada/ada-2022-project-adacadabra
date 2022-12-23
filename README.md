@@ -12,7 +12,7 @@ In this project, we try to investigate that subject by analysing the data in the
 
 You can find the whole data story [here](https://epfl-ada.github.io/ADAcADAbra-data-story-cayman/)
 
-In the jupyter notebook "data_analysis.ipynb" you can find our code for the data analysis. 
+In the jupyter notebook "data_story.ipynb" you can find our code for the data analysis. 
 
 Team contribution : 
 - DEMIRTAS Enes Eray : First Analysis, Analysis of slow development 
